@@ -42,5 +42,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="quesiton_rating">like the song?</string>
     <string name="my_rating">My Rating:</string>
+    <string name="OPEN">Open</string>
 
 </resources>

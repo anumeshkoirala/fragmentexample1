@@ -675,7 +675,7 @@ id end_padder
 id expand_activities_button
 id expanded_menu
 id forever
-id fragment
+id fragment_container
 id fragment_header
 id fragment_header2
 id home
@@ -701,6 +701,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id open_button
 id packed
 id parent
 id parentPanel
@@ -815,6 +816,7 @@ layout support_simple_spinner_dropdown_item
 layout tooltip
 mipmap ic_launcher
 mipmap ic_launcher_round
+string OPEN
 string abc_action_bar_home_description
 string abc_action_bar_home_description_format
 string abc_action_bar_home_subtitle_description_format
