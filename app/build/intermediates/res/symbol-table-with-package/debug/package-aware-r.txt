@@ -658,6 +658,8 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_next
+id button_prev
 id cancel_action
 id chains
 id checkbox
@@ -793,6 +795,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_second
 layout fragment_simplefragment
 layout notification_action
 layout notification_action_tombstone
@@ -858,6 +861,7 @@ string my_rating
 string no
 string no_message
 string open
+string prev
 string quesiton_rating
 string question_article
 string search_menu_title
